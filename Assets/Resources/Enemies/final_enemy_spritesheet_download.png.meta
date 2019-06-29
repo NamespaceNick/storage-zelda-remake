@@ -1,0 +1,6296 @@
+fileFormatVersion: 2
+guid: 78905bd5cf4c6284fbd230f3ae76b64d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: final_enemy_spritesheet_download_0
+    21300002: final_enemy_spritesheet_download_1
+    21300004: final_enemy_spritesheet_download_2
+    21300006: final_enemy_spritesheet_download_3
+    21300008: final_enemy_spritesheet_download_4
+    21300010: final_enemy_spritesheet_download_5
+    21300012: final_enemy_spritesheet_download_6
+    21300014: final_enemy_spritesheet_download_7
+    21300016: final_enemy_spritesheet_download_8
+    21300018: final_enemy_spritesheet_download_9
+    21300020: final_enemy_spritesheet_download_10
+    21300022: final_enemy_spritesheet_download_11
+    21300024: final_enemy_spritesheet_download_12
+    21300026: final_enemy_spritesheet_download_13
+    21300028: final_enemy_spritesheet_download_14
+    21300030: final_enemy_spritesheet_download_15
+    21300032: final_enemy_spritesheet_download_16
+    21300034: final_enemy_spritesheet_download_17
+    21300036: final_enemy_spritesheet_download_18
+    21300038: final_enemy_spritesheet_download_19
+    21300040: final_enemy_spritesheet_download_20
+    21300042: final_enemy_spritesheet_download_21
+    21300044: final_enemy_spritesheet_download_22
+    21300046: final_enemy_spritesheet_download_23
+    21300048: final_enemy_spritesheet_download_24
+    21300050: final_enemy_spritesheet_download_25
+    21300052: final_enemy_spritesheet_download_26
+    21300054: final_enemy_spritesheet_download_27
+    21300056: final_enemy_spritesheet_download_28
+    21300058: final_enemy_spritesheet_download_29
+    21300060: final_enemy_spritesheet_download_30
+    21300062: final_enemy_spritesheet_download_31
+    21300064: final_enemy_spritesheet_download_32
+    21300066: final_enemy_spritesheet_download_33
+    21300068: final_enemy_spritesheet_download_34
+    21300070: final_enemy_spritesheet_download_35
+    21300072: final_enemy_spritesheet_download_36
+    21300074: final_enemy_spritesheet_download_37
+    21300076: final_enemy_spritesheet_download_38
+    21300078: final_enemy_spritesheet_download_39
+    21300080: final_enemy_spritesheet_download_40
+    21300082: final_enemy_spritesheet_download_41
+    21300084: final_enemy_spritesheet_download_42
+    21300086: final_enemy_spritesheet_download_43
+    21300088: final_enemy_spritesheet_download_44
+    21300090: final_enemy_spritesheet_download_45
+    21300092: final_enemy_spritesheet_download_46
+    21300094: final_enemy_spritesheet_download_47
+    21300096: final_enemy_spritesheet_download_48
+    21300098: final_enemy_spritesheet_download_49
+    21300100: final_enemy_spritesheet_download_50
+    21300102: final_enemy_spritesheet_download_51
+    21300104: final_enemy_spritesheet_download_52
+    21300106: final_enemy_spritesheet_download_53
+    21300108: final_enemy_spritesheet_download_54
+    21300110: final_enemy_spritesheet_download_55
+    21300112: final_enemy_spritesheet_download_56
+    21300114: final_enemy_spritesheet_download_57
+    21300116: final_enemy_spritesheet_download_58
+    21300118: final_enemy_spritesheet_download_59
+    21300120: final_enemy_spritesheet_download_60
+    21300122: final_enemy_spritesheet_download_61
+    21300124: final_enemy_spritesheet_download_62
+    21300126: final_enemy_spritesheet_download_63
+    21300128: final_enemy_spritesheet_download_64
+    21300130: final_enemy_spritesheet_download_65
+    21300132: final_enemy_spritesheet_download_66
+    21300134: final_enemy_spritesheet_download_67
+    21300136: final_enemy_spritesheet_download_68
+    21300138: final_enemy_spritesheet_download_69
+    21300140: final_enemy_spritesheet_download_70
+    21300142: final_enemy_spritesheet_download_71
+    21300144: final_enemy_spritesheet_download_72
+    21300146: final_enemy_spritesheet_download_73
+    21300148: final_enemy_spritesheet_download_74
+    21300150: final_enemy_spritesheet_download_75
+    21300152: final_enemy_spritesheet_download_76
+    21300154: final_enemy_spritesheet_download_77
+    21300156: final_enemy_spritesheet_download_78
+    21300158: final_enemy_spritesheet_download_79
+    21300160: final_enemy_spritesheet_download_80
+    21300162: final_enemy_spritesheet_download_81
+    21300164: final_enemy_spritesheet_download_82
+    21300166: final_enemy_spritesheet_download_83
+    21300168: final_enemy_spritesheet_download_84
+    21300170: final_enemy_spritesheet_download_85
+    21300172: final_enemy_spritesheet_download_86
+    21300174: final_enemy_spritesheet_download_87
+    21300176: final_enemy_spritesheet_download_88
+    21300178: final_enemy_spritesheet_download_89
+    21300180: final_enemy_spritesheet_download_90
+    21300182: final_enemy_spritesheet_download_91
+    21300184: final_enemy_spritesheet_download_92
+    21300186: final_enemy_spritesheet_download_93
+    21300188: final_enemy_spritesheet_download_94
+    21300190: final_enemy_spritesheet_download_95
+    21300192: final_enemy_spritesheet_download_96
+    21300194: final_enemy_spritesheet_download_97
+    21300196: final_enemy_spritesheet_download_98
+    21300198: final_enemy_spritesheet_download_99
+    21300200: final_enemy_spritesheet_download_100
+    21300202: final_enemy_spritesheet_download_101
+    21300204: final_enemy_spritesheet_download_102
+    21300206: final_enemy_spritesheet_download_103
+    21300208: final_enemy_spritesheet_download_104
+    21300210: final_enemy_spritesheet_download_105
+    21300212: final_enemy_spritesheet_download_106
+    21300214: final_enemy_spritesheet_download_107
+    21300216: final_enemy_spritesheet_download_108
+    21300218: final_enemy_spritesheet_download_109
+    21300220: final_enemy_spritesheet_download_110
+    21300222: final_enemy_spritesheet_download_111
+    21300224: final_enemy_spritesheet_download_112
+    21300226: final_enemy_spritesheet_download_113
+    21300228: final_enemy_spritesheet_download_114
+    21300230: final_enemy_spritesheet_download_115
+    21300232: final_enemy_spritesheet_download_116
+    21300234: final_enemy_spritesheet_download_117
+    21300236: final_enemy_spritesheet_download_118
+    21300238: final_enemy_spritesheet_download_119
+    21300240: final_enemy_spritesheet_download_120
+    21300242: final_enemy_spritesheet_download_121
+    21300244: final_enemy_spritesheet_download_122
+    21300246: final_enemy_spritesheet_download_123
+    21300248: final_enemy_spritesheet_download_124
+    21300250: final_enemy_spritesheet_download_125
+    21300252: final_enemy_spritesheet_download_126
+    21300254: final_enemy_spritesheet_download_127
+    21300256: final_enemy_spritesheet_download_128
+    21300258: final_enemy_spritesheet_download_129
+    21300260: final_enemy_spritesheet_download_130
+    21300262: final_enemy_spritesheet_download_131
+    21300264: final_enemy_spritesheet_download_132
+    21300266: final_enemy_spritesheet_download_133
+    21300268: final_enemy_spritesheet_download_134
+    21300270: final_enemy_spritesheet_download_135
+    21300272: final_enemy_spritesheet_download_136
+    21300274: final_enemy_spritesheet_download_137
+    21300276: final_enemy_spritesheet_download_138
+    21300278: final_enemy_spritesheet_download_139
+    21300280: final_enemy_spritesheet_download_140
+    21300282: final_enemy_spritesheet_download_141
+    21300284: final_enemy_spritesheet_download_142
+    21300286: final_enemy_spritesheet_download_143
+    21300288: final_enemy_spritesheet_download_144
+    21300290: final_enemy_spritesheet_download_145
+    21300292: final_enemy_spritesheet_download_146
+    21300294: final_enemy_spritesheet_download_147
+    21300296: final_enemy_spritesheet_download_148
+    21300298: final_enemy_spritesheet_download_149
+    21300300: final_enemy_spritesheet_download_150
+    21300302: final_enemy_spritesheet_download_151
+    21300304: final_enemy_spritesheet_download_152
+    21300306: final_enemy_spritesheet_download_153
+    21300308: final_enemy_spritesheet_download_154
+    21300310: final_enemy_spritesheet_download_155
+    21300312: final_enemy_spritesheet_download_156
+    21300314: final_enemy_spritesheet_download_157
+    21300316: final_enemy_spritesheet_download_158
+    21300318: final_enemy_spritesheet_download_159
+    21300320: final_enemy_spritesheet_download_160
+    21300322: final_enemy_spritesheet_download_161
+    21300324: final_enemy_spritesheet_download_162
+    21300326: final_enemy_spritesheet_download_163
+    21300328: final_enemy_spritesheet_download_164
+    21300330: final_enemy_spritesheet_download_165
+    21300332: final_enemy_spritesheet_download_166
+    21300334: final_enemy_spritesheet_download_167
+    21300336: final_enemy_spritesheet_download_168
+    21300338: final_enemy_spritesheet_download_169
+    21300340: final_enemy_spritesheet_download_170
+    21300342: final_enemy_spritesheet_download_171
+    21300344: final_enemy_spritesheet_download_172
+    21300346: final_enemy_spritesheet_download_173
+    21300348: final_enemy_spritesheet_download_174
+    21300350: final_enemy_spritesheet_download_175
+    21300352: final_enemy_spritesheet_download_176
+    21300354: final_enemy_spritesheet_download_177
+    21300356: final_enemy_spritesheet_download_178
+    21300358: final_enemy_spritesheet_download_179
+    21300360: final_enemy_spritesheet_download_180
+    21300362: final_enemy_spritesheet_download_181
+    21300364: final_enemy_spritesheet_download_182
+    21300366: final_enemy_spritesheet_download_183
+    21300368: final_enemy_spritesheet_download_184
+    21300370: final_enemy_spritesheet_download_185
+    21300372: final_enemy_spritesheet_download_186
+    21300374: final_enemy_spritesheet_download_187
+    21300376: final_enemy_spritesheet_download_188
+    21300378: final_enemy_spritesheet_download_189
+    21300380: final_enemy_spritesheet_download_190
+    21300382: final_enemy_spritesheet_download_191
+    21300384: final_enemy_spritesheet_download_192
+    21300386: final_enemy_spritesheet_download_193
+    21300388: final_enemy_spritesheet_download_194
+    21300390: final_enemy_spritesheet_download_195
+    21300392: final_enemy_spritesheet_download_196
+    21300394: final_enemy_spritesheet_download_197
+    21300396: final_enemy_spritesheet_download_198
+    21300398: final_enemy_spritesheet_download_199
+    21300400: final_enemy_spritesheet_download_200
+    21300402: final_enemy_spritesheet_download_201
+    21300404: final_enemy_spritesheet_download_202
+    21300406: final_enemy_spritesheet_download_203
+    21300408: final_enemy_spritesheet_download_204
+    21300410: final_enemy_spritesheet_download_205
+    21300412: final_enemy_spritesheet_download_206
+    21300414: final_enemy_spritesheet_download_207
+    21300416: final_enemy_spritesheet_download_208
+    21300418: final_enemy_spritesheet_download_209
+    21300420: final_enemy_spritesheet_download_210
+    21300422: final_enemy_spritesheet_download_211
+    21300424: final_enemy_spritesheet_download_212
+    21300426: final_enemy_spritesheet_download_213
+    21300428: final_enemy_spritesheet_download_214
+    21300430: final_enemy_spritesheet_download_215
+    21300432: final_enemy_spritesheet_download_216
+    21300434: final_enemy_spritesheet_download_217
+    21300436: final_enemy_spritesheet_download_218
+    21300438: final_enemy_spritesheet_download_219
+    21300440: final_enemy_spritesheet_download_220
+    21300442: final_enemy_spritesheet_download_221
+    21300444: final_enemy_spritesheet_download_222
+    21300446: final_enemy_spritesheet_download_223
+    21300448: final_enemy_spritesheet_download_224
+    21300450: final_enemy_spritesheet_download_225
+    21300452: final_enemy_spritesheet_download_226
+    21300454: final_enemy_spritesheet_download_227
+    21300456: final_enemy_spritesheet_download_228
+    21300458: final_enemy_spritesheet_download_229
+    21300460: final_enemy_spritesheet_download_230
+    21300462: final_enemy_spritesheet_download_231
+    21300464: final_enemy_spritesheet_download_232
+    21300466: final_enemy_spritesheet_download_233
+    21300468: final_enemy_spritesheet_download_234
+    21300470: final_enemy_spritesheet_download_235
+    21300472: final_enemy_spritesheet_download_236
+    21300474: final_enemy_spritesheet_download_237
+    21300476: final_enemy_spritesheet_download_238
+    21300478: final_enemy_spritesheet_download_239
+    21300480: final_enemy_spritesheet_download_240
+    21300482: final_enemy_spritesheet_download_241
+    21300484: final_enemy_spritesheet_download_242
+    21300486: final_enemy_spritesheet_download_243
+    21300488: final_enemy_spritesheet_download_244
+    21300490: final_enemy_spritesheet_download_245
+    21300492: final_enemy_spritesheet_download_246
+    21300494: final_enemy_spritesheet_download_247
+    21300496: final_enemy_spritesheet_download_248
+    21300498: final_enemy_spritesheet_download_249
+    21300500: final_enemy_spritesheet_download_250
+    21300502: final_enemy_spritesheet_download_251
+    21300504: final_enemy_spritesheet_download_252
+    21300506: final_enemy_spritesheet_download_253
+    21300508: final_enemy_spritesheet_download_254
+    21300510: final_enemy_spritesheet_download_255
+    21300512: final_enemy_spritesheet_download_256
+    21300514: final_enemy_spritesheet_download_257
+    21300516: final_enemy_spritesheet_download_258
+    21300518: final_enemy_spritesheet_download_259
+    21300520: final_enemy_spritesheet_download_260
+    21300522: final_enemy_spritesheet_download_261
+    21300524: final_enemy_spritesheet_download_262
+    21300526: final_enemy_spritesheet_download_263
+    21300528: final_enemy_spritesheet_download_264
+    21300530: final_enemy_spritesheet_download_265
+    21300532: final_enemy_spritesheet_download_266
+    21300534: final_enemy_spritesheet_download_267
+    21300536: final_enemy_spritesheet_download_268
+    21300538: final_enemy_spritesheet_download_269
+    21300540: final_enemy_spritesheet_download_270
+    21300542: final_enemy_spritesheet_download_271
+    21300544: final_enemy_spritesheet_download_272
+    21300546: final_enemy_spritesheet_download_273
+    21300548: final_enemy_spritesheet_download_274
+    21300550: final_enemy_spritesheet_download_275
+    21300552: final_enemy_spritesheet_download_276
+    21300554: final_enemy_spritesheet_download_277
+    21300556: final_enemy_spritesheet_download_278
+    21300558: final_enemy_spritesheet_download_279
+    21300560: final_enemy_spritesheet_download_280
+    21300562: final_enemy_spritesheet_download_281
+    21300564: final_enemy_spritesheet_download_282
+    21300566: final_enemy_spritesheet_download_283
+    21300568: final_enemy_spritesheet_download_284
+    21300570: final_enemy_spritesheet_download_285
+    21300572: final_enemy_spritesheet_download_286
+    21300574: final_enemy_spritesheet_download_287
+    21300576: final_enemy_spritesheet_download_288
+    21300578: final_enemy_spritesheet_download_289
+    21300580: final_enemy_spritesheet_download_290
+    21300582: final_enemy_spritesheet_download_291
+    21300584: final_enemy_spritesheet_download_292
+    21300586: final_enemy_spritesheet_download_293
+    21300588: final_enemy_spritesheet_download_294
+    21300590: final_enemy_spritesheet_download_295
+    21300592: final_enemy_spritesheet_download_296
+    21300594: final_enemy_spritesheet_download_297
+    21300596: final_enemy_spritesheet_download_298
+    21300598: final_enemy_spritesheet_download_299
+    21300600: final_enemy_spritesheet_download_300
+    21300602: final_enemy_spritesheet_download_301
+    21300604: final_enemy_spritesheet_download_302
+    21300606: final_enemy_spritesheet_download_303
+    21300608: final_enemy_spritesheet_download_304
+    21300610: final_enemy_spritesheet_download_305
+    21300612: final_enemy_spritesheet_download_306
+    21300614: final_enemy_spritesheet_download_307
+    21300616: final_enemy_spritesheet_download_308
+    21300618: final_enemy_spritesheet_download_309
+    21300620: final_enemy_spritesheet_download_310
+    21300622: final_enemy_spritesheet_download_311
+    21300624: final_enemy_spritesheet_download_312
+    21300626: final_enemy_spritesheet_download_313
+    21300628: final_enemy_spritesheet_download_314
+    21300630: final_enemy_spritesheet_download_315
+    21300632: final_enemy_spritesheet_download_316
+    21300634: final_enemy_spritesheet_download_317
+    21300636: final_enemy_spritesheet_download_318
+    21300638: final_enemy_spritesheet_download_319
+    21300640: final_enemy_spritesheet_download_320
+    21300642: final_enemy_spritesheet_download_321
+    21300644: final_enemy_spritesheet_download_322
+    21300646: final_enemy_spritesheet_download_323
+    21300648: final_enemy_spritesheet_download_324
+    21300650: final_enemy_spritesheet_download_325
+    21300652: final_enemy_spritesheet_download_326
+    21300654: final_enemy_spritesheet_download_327
+    21300656: final_enemy_spritesheet_download_328
+    21300658: final_enemy_spritesheet_download_329
+    21300660: final_enemy_spritesheet_download_330
+    21300662: final_enemy_spritesheet_download_331
+    21300664: final_enemy_spritesheet_download_332
+    21300666: final_enemy_spritesheet_download_333
+    21300668: final_enemy_spritesheet_download_334
+    21300670: final_enemy_spritesheet_download_335
+    21300672: final_enemy_spritesheet_download_336
+    21300674: final_enemy_spritesheet_download_337
+    21300676: final_enemy_spritesheet_download_338
+    21300678: final_enemy_spritesheet_download_339
+    21300680: final_enemy_spritesheet_download_340
+    21300682: final_enemy_spritesheet_download_341
+    21300684: final_enemy_spritesheet_download_342
+    21300686: final_enemy_spritesheet_download_343
+    21300688: final_enemy_spritesheet_download_344
+    21300690: final_enemy_spritesheet_download_345
+    21300692: final_enemy_spritesheet_download_346
+    21300694: final_enemy_spritesheet_download_347
+    21300696: final_enemy_spritesheet_download_348
+    21300698: final_enemy_spritesheet_download_349
+    21300700: final_enemy_spritesheet_download_350
+    21300702: final_enemy_spritesheet_download_351
+    21300704: final_enemy_spritesheet_download_352
+    21300706: final_enemy_spritesheet_download_353
+    21300708: final_enemy_spritesheet_download_354
+    21300710: final_enemy_spritesheet_download_355
+    21300712: final_enemy_spritesheet_download_356
+    21300714: final_enemy_spritesheet_download_357
+    21300716: final_enemy_spritesheet_download_358
+    21300718: final_enemy_spritesheet_download_359
+    21300720: final_enemy_spritesheet_download_360
+    21300722: final_enemy_spritesheet_download_361
+    21300724: final_enemy_spritesheet_download_362
+    21300726: final_enemy_spritesheet_download_363
+    21300728: final_enemy_spritesheet_download_364
+    21300730: final_enemy_spritesheet_download_365
+    21300732: final_enemy_spritesheet_download_366
+    21300734: final_enemy_spritesheet_download_367
+    21300736: final_enemy_spritesheet_download_368
+    21300738: final_enemy_spritesheet_download_369
+    21300740: final_enemy_spritesheet_download_370
+    21300742: final_enemy_spritesheet_download_371
+    21300744: final_enemy_spritesheet_download_372
+    21300746: final_enemy_spritesheet_download_373
+    21300748: final_enemy_spritesheet_download_374
+    21300750: final_enemy_spritesheet_download_375
+    21300752: final_enemy_spritesheet_download_376
+    21300754: final_enemy_spritesheet_download_377
+    21300756: final_enemy_spritesheet_download_378
+    21300758: final_enemy_spritesheet_download_379
+    21300760: final_enemy_spritesheet_download_380
+    21300762: final_enemy_spritesheet_download_381
+    21300764: final_enemy_spritesheet_download_382
+    21300766: final_enemy_spritesheet_download_383
+    21300768: final_enemy_spritesheet_download_384
+    21300770: final_enemy_spritesheet_download_385
+    21300772: final_enemy_spritesheet_download_386
+    21300774: final_enemy_spritesheet_download_387
+    21300776: final_enemy_spritesheet_download_388
+    21300778: final_enemy_spritesheet_download_389
+    21300780: final_enemy_spritesheet_download_390
+    21300782: final_enemy_spritesheet_download_391
+    21300784: final_enemy_spritesheet_download_392
+    21300786: final_enemy_spritesheet_download_393
+    21300788: final_enemy_spritesheet_download_394
+    21300790: final_enemy_spritesheet_download_395
+    21300792: final_enemy_spritesheet_download_396
+    21300794: final_enemy_spritesheet_download_397
+    21300796: final_enemy_spritesheet_download_398
+    21300798: final_enemy_spritesheet_download_399
+    21300800: final_enemy_spritesheet_download_400
+    21300802: final_enemy_spritesheet_download_401
+    21300804: final_enemy_spritesheet_download_402
+    21300806: final_enemy_spritesheet_download_403
+    21300808: final_enemy_spritesheet_download_404
+    21300810: final_enemy_spritesheet_download_405
+    21300812: final_enemy_spritesheet_download_406
+    21300814: final_enemy_spritesheet_download_407
+    21300816: final_enemy_spritesheet_download_408
+    21300818: final_enemy_spritesheet_download_409
+    21300820: final_enemy_spritesheet_download_410
+    21300822: final_enemy_spritesheet_download_411
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_0
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 107
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 105
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 107
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_3
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 107
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 107
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_5
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 107
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_6
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 107
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 107
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_8
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 107
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_9
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 107
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_10
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 107
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_11
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 107
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_12
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 107
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_13
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 103
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 103
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_15
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 103
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_16
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 103
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_17
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 103
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_18
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 103
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_19
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 103
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_20
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 103
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_21
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 103
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_22
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 103
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_23
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 103
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_24
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 103
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_25
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 103
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_26
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 103
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_27
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 103
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_28
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 103
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_29
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 103
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_30
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 103
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_31
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 103
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_32
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 103
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_33
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 103
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_34
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 103
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_35
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 103
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_36
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 103
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_37
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 103
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_38
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 103
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_39
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 103
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_40
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 103
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_41
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 103
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_42
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 103
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_43
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 103
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_44
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 103
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_45
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 103
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_46
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 106
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_47
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 106
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_48
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 106
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_49
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 106
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_50
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 106
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_51
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 106
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_52
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 106
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_53
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 106
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_54
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 106
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_55
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 106
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_56
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 106
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_57
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 106
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_58
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 106
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_59
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 106
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_60
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 106
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_61
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 106
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_62
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 106
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_63
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 106
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_64
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 106
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_65
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 106
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_66
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 79
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_67
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 79
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_68
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 79
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_69
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 79
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_70
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 79
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_71
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 79
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_72
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 79
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_73
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 79
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_74
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 79
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_75
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 79
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_76
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 79
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_77
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 79
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_78
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 79
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_79
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 79
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_80
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 79
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_81
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 79
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_82
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 79
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_83
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 79
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_84
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 79
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_85
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 79
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_86
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 79
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_87
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 79
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_88
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 79
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_89
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 79
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_90
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 79
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_91
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 79
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_92
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 79
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_93
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 79
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_94
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_95
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 79
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_96
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 79
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_97
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 79
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_98
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 79
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_99
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 79
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_100
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 79
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_101
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 79
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_102
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 79
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_103
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 79
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_104
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 79
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_105
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 79
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_106
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 79
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_107
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_108
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 80
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_109
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 80
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_110
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 80
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_111
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 80
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_112
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 80
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_113
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 80
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_114
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 80
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_115
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 80
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_116
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 80
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_117
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 80
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_118
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 80
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_119
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 80
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_120
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 80
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_121
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 80
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_122
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 80
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_123
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 80
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_124
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 58
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_125
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 58
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_126
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 58
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_127
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 58
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_128
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 58
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_129
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 58
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_130
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 58
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_131
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 58
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_132
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 58
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_133
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 58
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_134
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 58
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_135
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 58
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_136
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 58
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_137
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 58
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_138
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 58
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_139
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_140
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 55
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_141
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 55
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_142
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 55
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_143
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_144
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 55
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_145
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 55
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_146
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 55
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_147
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_148
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 55
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_149
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 55
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_150
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 55
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_151
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_152
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 55
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_153
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 55
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_154
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 55
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_155
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 55
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_156
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 55
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_157
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 55
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_158
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 55
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_159
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 55
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_160
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 55
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_161
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 55
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_162
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 55
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_163
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 55
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_164
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 55
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_165
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 55
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_166
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 55
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_167
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 55
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_168
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 55
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_169
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 55
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_170
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 55
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_171
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 55
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_172
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 55
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_173
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 55
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_174
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 55
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_175
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 55
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_176
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 55
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_177
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 55
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_178
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 55
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_179
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_180
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_181
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_182
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_183
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_184
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_185
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_186
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_187
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_188
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_189
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_190
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_191
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_192
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 31
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_193
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 33
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_194
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 31
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_195
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 33
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_196
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 31
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_197
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 31
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_198
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 31
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_199
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 31
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_200
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 31
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_201
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 31
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_202
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 31
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_203
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 31
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_204
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 31
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_205
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 31
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_206
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 31
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_207
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 31
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_208
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 35
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_209
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 33
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_210
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_211
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 33
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_212
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 35
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_213
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_214
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_215
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_216
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_217
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_218
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_219
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_220
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_221
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_222
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_223
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_224
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_225
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 31
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_226
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 31
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_227
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 31
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_228
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 31
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_229
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 31
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_230
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_231
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 31
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_232
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 31
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_233
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 31
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_234
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 31
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_235
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 31
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_236
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_237
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 41
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_238
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 37
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_239
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 34
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_240
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 33
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_241
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 32
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_242
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 31
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_243
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 41
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_244
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 37
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_245
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 34
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_246
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 33
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_247
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 32
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_248
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 31
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_249
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 41
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_250
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 37
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_251
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 34
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_252
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 33
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_253
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 32
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_254
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 31
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_255
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 41
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_256
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 37
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_257
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 34
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_258
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 33
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_259
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 32
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_260
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 31
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_261
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 41
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_262
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 37
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_263
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 34
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_264
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 33
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_265
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 32
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_266
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 31
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_267
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 41
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_268
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 37
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_269
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 34
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_270
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 33
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_271
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 32
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_272
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 31
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_273
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 41
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_274
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 37
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_275
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 34
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_276
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 33
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_277
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 32
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_278
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 31
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_279
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 41
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_280
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 37
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_281
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 34
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_282
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 33
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_283
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 32
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_284
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 31
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_285
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 41
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_286
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 37
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_287
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 34
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_288
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 33
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_289
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 32
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_290
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 31
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_291
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 41
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_292
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 37
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_293
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 34
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_294
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 33
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_295
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 32
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_296
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 31
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_297
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 41
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_298
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 37
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_299
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 34
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_300
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 33
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_301
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 32
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_302
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 31
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_303
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 41
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_304
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 37
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_305
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 34
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_306
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 33
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_307
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 32
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_308
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 31
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_309
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 34
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_310
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 31
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_311
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 34
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_312
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 31
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_313
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 34
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_314
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 31
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_315
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 34
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_316
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 31
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_317
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 34
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_318
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 31
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_319
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 34
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_320
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 31
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_321
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 34
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_322
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 31
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_323
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 34
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_324
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 31
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_325
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 34
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_326
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 31
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_327
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 34
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_328
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 31
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_329
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 34
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_330
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 31
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_331
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 34
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_332
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 31
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_333
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_334
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 7
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_335
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 7
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_336
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 7
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_337
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 7
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_338
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 7
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_339
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 7
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_340
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 7
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_341
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 7
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_342
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 7
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_343
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 7
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_344
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 8
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_345
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 9
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_346
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 8
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_347
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 9
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_348
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 8
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_349
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 8
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_350
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 8
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_351
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 8
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_352
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 8
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_353
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 8
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_354
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 8
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_355
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 8
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_356
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 8
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_357
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 8
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_358
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 8
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_359
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 7
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_360
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_361
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 7
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_362
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_363
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 7
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_364
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_365
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 7
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_366
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_367
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 7
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_368
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 7
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_369
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 7
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_370
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 7
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_371
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 7
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_372
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 7
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_373
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 7
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_374
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 7
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_375
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 7
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_376
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_377
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_378
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_379
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_380
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_381
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_382
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_383
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_384
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_385
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_386
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_387
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_388
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_389
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_390
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_391
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_392
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_393
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_394
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_395
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_396
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_397
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_398
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_399
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_400
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_401
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_402
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_403
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_404
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_405
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_406
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_407
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_408
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_409
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_410
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: final_enemy_spritesheet_download_411
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

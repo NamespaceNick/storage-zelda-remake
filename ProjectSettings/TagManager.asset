@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - heart
+  - sword
+  - enemy
+  - key
+  - rupee
+  - roomTransitionRight
+  - roomTransitionLeft
+  - roomTransitionUp
+  - roomTransitionDown
+  - roomGate
+  - rightRoomGate
+  - leftRoomGate
+  - topRoomGate
+  - bottomRoomGate
+  - boomer
+  - wall
+  - door
+  - water
+  - special_wall
+  - bladeTrap
+  - wallmaster
+  - bullet
+  - spike
+  - FX
+  - bomb
+  - bow
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - roomGate
+  - enemy
+  - player
+  - flyingEnemy
+  - flyOver
+  - openDoor
+  - bullet
+  - enemyCollider
+  - flyingEnemyCollider
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
